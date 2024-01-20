@@ -16,6 +16,7 @@ O site é composto por sete seções:
 - **Habilidades:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
 - **Conquistas:** Exibe através de cards os meus certificados de cursos;
 - **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para a visualização da página;
+- **Contatos** Nessa área foi criada um formulário para contato via e-mail;
 
 ---
 
