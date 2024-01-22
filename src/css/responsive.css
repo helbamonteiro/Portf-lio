@@ -158,9 +158,9 @@
   }
   
   
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 200px) {
       .portfolio-img {
-          width: 320px;
+          width: 200px;
       }
   
       .portfolio-content {
