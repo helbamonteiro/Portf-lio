@@ -15,13 +15,13 @@ html {
 
 /* ============= VARIABLES CSS ============= */
 :root {
-  --first-color: rgb(119, 52, 183);
-  --color-purple-light: rgb(157, 78, 231);
-  --color-white-pink: rgb(223, 168, 255);
-  --clean-white-purple: rgb(247, 232, 252);
-  --text-color-light: rgb(134, 122, 159);
-  --scroll-thumb-color: rgb(161, 151, 180);
-  --scroll-bar-color: rgb(188, 181, 201);
+  --first-color: rgb(252, 124, 4);
+  --color-purple-light: rgb(219, 92, 19);
+  --color-white-pink: rgb(29, 25, 25);
+  --clean-white-purple: rgba(247, 232, 252, 0.904);
+  --text-color-light: rgb(177, 121, 121);
+  --scroll-thumb-color: rgb(180, 151, 151);
+  --scroll-bar-color: rgb(201, 181, 181);
   --clean-light-gray: rgb(189, 189, 189);
   --color-clean-white:rgb(241, 239, 239);
   --color-white: rgb(255, 255, 255);
