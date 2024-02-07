@@ -25,7 +25,7 @@ html {
   --clean-light-gray: rgb(189, 189, 189);
   --color-clean-white:rgb(241, 239, 239);
   --color-white: rgb(255, 255, 255);
-  --color-black: rgb(24, 22, 22);
+  --color-black: rgba(24, 22, 22, 0.911);
   --color-black-clean: rgb(33, 33, 33);
 }
 
