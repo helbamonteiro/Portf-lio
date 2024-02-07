@@ -373,7 +373,7 @@ section .title::after {
 
 /* ============= SKILLS SECTION ============= */
 .skills .title::after {
-  background: var(--clean-white-purple);
+  background: var(--color-black);
   content: "O que eu sei";
   white-space: nowrap;
 }
