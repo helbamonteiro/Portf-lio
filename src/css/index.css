@@ -428,28 +428,28 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-  width: 70%;
+  width: 100%;
 }
 
 .skills-content .right .css::before {
-  width: 50%;
+  width: 100%;
 }
 
 
 .skills-content .right .js::before {
-  width: 50%;
+  width: 100%;
 }
 
 .skills-content .right .angular::before {
-  width: 35%;
+  width: 100%;
 }
 
 .skills-content .right .sql::before {
-  width: 20%;
+  width: 100%;
 }
 
 .skills-content .right .csharp::before{
-  width: 50%;
+  width: 100%;
 }
 
 
